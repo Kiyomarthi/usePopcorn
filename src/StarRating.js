@@ -22,11 +22,13 @@ export default function StarRating({
   color = "#fcc419",
   size = 48,
   defaultRating = 0,
+  onUserRating,
 }) {
   const [rating, setRating] = useState(defaultRating);
   const [tempRating, setTempRating] = useState(0);
   function handleRating(rating) {
     setRating(rating);
+    onUserRating(rating);
   }
   const textStyle = {
     lineHeight: "1",
