@@ -1,8 +1,7 @@
 # UsePopcorn
 ## Description
-- **Description**: 
-	- The ability to access movies, search and check their full descriptions, including scores
-	- through the API of the IMDb site; The ability to record watched videos and provide personal feedback about them.
+- The ability to access movies, search and check their full descriptions, including scores
+- through the API of the IMDb site; The ability to record watched videos and provide personal feedback about them.
 - **Programming languages**: HTML, CSS, JS, React
 ## Preview
 
