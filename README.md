@@ -14,21 +14,21 @@ https://github.com/user-attachments/assets/24a1ba23-a1b1-478e-8d40-c51a1147aea6
 
 ## how to use
 1. **Clone the repository**
-	    ```
-	    git clone https://github.com/Kiyomarthi/usePopcorn.git
-	    ```
-2. **Navigate to the project directory**
-    ```
-    cd usePopcorn
-    ```
-3. **Install dependencies**
-    ```
-    npm i
-    ```
-4. **Start the development server**
-    ```
-    npm run start
-    ```
+		```
+		git clone https://github.com/Kiyomarthi/usePopcorn.git
+		```
+3. **Navigate to the project directory**
+		```
+		cd usePopcorn
+		```
+4. **Install dependencies**
+		```
+		npm i
+		```
+5. **Start the development server**
+		```
+		npm run start
+		```
 ## links
 - [Resume](https://drive.google.com/file/d/1MSikW0hlfwjpsI_VPBEZjkt8BuPGj5z8/view?usp=sharing)
 - [Linkedin](https://www.linkedin.com/in/kiyomarthi/)
