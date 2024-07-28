@@ -14,9 +14,9 @@ https://github.com/user-attachments/assets/24a1ba23-a1b1-478e-8d40-c51a1147aea6
 
 ## how to use
 1. **Clone the repository**
-		```
-		git clone https://github.com/Kiyomarthi/usePopcorn.git
-		```
+	```
+	git clone https://github.com/Kiyomarthi/usePopcorn.git
+	```
 3. **Navigate to the project directory**
 		```
 		cd usePopcorn
